@@ -11,6 +11,7 @@
 5. 🇩🇪 Angular.Schule, 24.-27. September 2019 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)_
 
 🤝 == we are Community Partners!
+
 ❤️ == with ngGirls free of charge workshop before!
 
 ----
