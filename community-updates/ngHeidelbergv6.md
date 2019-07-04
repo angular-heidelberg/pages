@@ -16,9 +16,10 @@
 
 ----
 
-## Next Meetup (#ngHeidelberg v7)
+## Next Meetup (#ngHeidelberg v7) – http://bit.ly/nghd7
 
 Vote for a date:
+* Please vote: **http://bit.ly/nghd7**
 * August ?? – with Christian Janz
 * Talk: Angular CDK – Toolbox for Angular
 
@@ -33,10 +34,10 @@ In this talk Christian gives an overview of the Angular CDK by first going into 
 1. 🚀 Angular 8 is out!
    * you can't have missed this news!
    * `ng update @angular/cli @angular/core` and you are ready to go
-1. NgRx 8 is out (new leaner API `createAction(), createReducer(), createEffect()`)
+2. NgRx 8 is out (new leaner API `createAction(), createReducer(), createEffect()`)
    * `ng update @ngrx/store`
-1. 2nd edition: the Angular-Buch (Malcher, Hoppe, Koppenhagen) is available, see https://angular-buch.com/ --> we will raffle one book today!
-2. https://ngadd.com/ - a continuously updated list of all angular libraries that support `ng add` to save yourself a ton of time!
+3. 2nd edition: the Angular-Buch (Malcher, Hoppe, Koppenhagen) is available, see https://angular-buch.com/ --> we will raffle one book today!
+4. https://ngadd.com/ - a continuously updated list of all angular libraries that support `ng add` to save yourself a ton of time!
    ![screenshot](ngHeidelbergv6_ng-add.jpg)
 
 
