@@ -4,13 +4,14 @@
 
 ## Upcoming events:
 
-1. 🇩🇪 NG-DE 🤝, 30.-31. August 2019 in Berlin, see https://ng-de.org 
-2. 🇮🇹 NgRome, 7. October October 2019 in Rome, see https://ngrome.io
-3. 🇪🇸 NgSpain, 19.-20. October 2019 in Madrid, see https://ngspain.com/
-4. 🇺🇦 NgTalks 🤝, 07.-08 November 2019 in Kharkov, see https://ngtalks.io/
+1. 🇩🇪 NG-DE ❤️🤝, 30.-31. August 2019 in Berlin, see https://ng-de.org 
+2. 🇮🇹 NgRome ❤️, 7. October 2019 in Rome, see https://ngrome.io
+3. 🇪🇸 NgSpain ❤️, 19.-20. October 2019 in Madrid, see https://ngspain.com/
+4. 🇺🇦 NgTalks ❤️ 🤝, 07.-08 November 2019 in Kharkov, see https://ngtalks.io/
 5. 🇩🇪 Angular.Schule, 24.-27. September 2019 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)_
 
 🤝 == we are Community Partners!
+❤️ == with ngGirls free of charge workshop before!
 
 ----
 
