@@ -23,9 +23,9 @@ Vote for a date:
 * August ?? – with Christian Janz
 * Talk: Angular CDK – Toolbox for Angular
 
-When developing enterprise applications with Angular, you need a rich set of UI components to make feature development fast and efficient. But what do you do if there are no suitable components for a particular application? This is where the Component Dev Kit (CDK) comes in: It facilitates the development of wizards, popups, drag-and-drop behavior and other components.
+When developing enterprise applications with Angular, you need a rich set of UI components to make feature development fast and efficient. But what do you do if there are no suitable components for a particular application? This is where the Component Dev Kit (CDK) comes in: It facilitates the development of wizards, popups, drag-and-drop behavior and other components. The well-known Angular Meterial is based on the CDK.
 
-In this talk Christian gives an overview of the Angular CDK by first going into the history of the project and then classifying it into the known UI libraries. He will then introduce the various modules that the CDK contains and show the use of selected modules in live coding. 
+In this talk Christian gives an overview of the Angular CDK. He will introduce us into the history of the project and will compare it with other frameworks. Of course, he will also show us the various components of the CDK with the help of a lot of livecoding. 
 
 ----
 
