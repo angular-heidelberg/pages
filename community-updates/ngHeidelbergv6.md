@@ -5,8 +5,10 @@
 ## Upcoming events:
 
 1. 🇩🇪 NG-DE 🤝, 30.-31. August 2019 in Berlin, see https://ng-de.org 
-2. 🇺🇦 NgTalks 🤝, 07.-08 November 2019 in Kharkov, see https://ngtalks.io/
-3. 🇩🇪 Angular.Schule, 24.-27. September 2019 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)_
+2. 🇮🇹 NgRome, 7. October October 2019 in Rome, see https://ngrome.io
+3. 🇪🇸 NgSpain, 19.-20. October 2019 in Madrid, see https://ngspain.com/
+4. 🇺🇦 NgTalks 🤝, 07.-08 November 2019 in Kharkov, see https://ngtalks.io/
+5. 🇩🇪 Angular.Schule, 24.-27. September 2019 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)_
 
 🤝 == we are Community Partners!
 
@@ -50,4 +52,4 @@ In this talk Christian gives an overview of the Angular CDK by first going into 
 &nbsp; &nbsp; <img src="logos/ng-de-logo.svg" width="35%" alt="NG-DE logo">
 
 
-**NG-DE code:** `???` – with this promo-code, you'll get a ?% discount for conference tickets.  
+**NG-DE code:** https://ti.to/ng-de/ng-de-2019/discount/community-angular-heidelberg – with this url, you'll get a 25% discount for conference tickets.  
