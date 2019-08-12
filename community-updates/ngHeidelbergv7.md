@@ -18,11 +18,8 @@
 
 ## Next Meetup (#ngHeidelberg v8)
 
-Vote for a date:
-* Please vote: TODO
-* September ?? – with GDE Gregor Woiwode
-* Talk: Jest, Boosting the Angular Testing Platform
-
+Planned for September.  
+We're gonna have a call for papers! Anyone can take part, everything about Angular is of interest.
 
 ----
 
