@@ -30,6 +30,8 @@ Vote for a date:
 
 1. Angular CLI v8.3.0-next.1 (next minor version released soon) --> `ng deploy`
 1. Olivier Combe [left Angular Team](https://twitter.com/OCombe/status/1148274119609335813), roadmap/future of `i18n` unclear
+3. On the way to Angular 9: Three bugfixes in Angular 9 – [HelpDev](https://lnkd.in/eKe8N28)
+4. [Guess.js](https://github.com/guess-js/guess) (alpha) -Libraries and tools for enabling data-driven user-experiences on the web.
 
 ----
 
