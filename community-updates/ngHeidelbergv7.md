@@ -28,8 +28,8 @@ Vote for a date:
 
 ## News:
 
-1. TODO
-
+1. Angular CLI v8.3.0-next.1 (next minor version released soon) --> `ng deploy`
+1. Olivier Combe [left Angular Team], roadmap/future of `i18n` unclear
 
 ----
 
