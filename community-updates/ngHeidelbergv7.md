@@ -29,7 +29,7 @@ Vote for a date:
 ## News:
 
 1. Angular CLI v8.3.0-next.1 (next minor version released soon) --> `ng deploy`
-1. Olivier Combe [left Angular Team], roadmap/future of `i18n` unclear
+1. Olivier Combe [left Angular Team](https://twitter.com/OCombe/status/1148274119609335813), roadmap/future of `i18n` unclear
 
 ----
 
