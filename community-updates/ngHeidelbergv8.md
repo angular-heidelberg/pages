@@ -37,7 +37,7 @@ Planned for March 2020. We have not forgotten the CFP!
 ## Promo codes:
 
 
-<img src="logos/js-live.png" width="40%" alt="RxJS Live logo">
+<img src="logos/rxjs-live.png" width="40%" alt="RxJS Live logo">
 
 **Promo code:** `ngheidelberg` – with this promo-code, you'll get a 20% discount on the conference tickets.  
 
