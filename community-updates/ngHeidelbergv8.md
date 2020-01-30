@@ -15,8 +15,9 @@
 7. 🇮🇱 AngularUP, June 2020, Tel Aviv
 8. 🇩🇪 NG-DE, August 2020, Berlin
 7. 🇮🇹 ngRome, October 2020, Rome
-8. 🇺🇸 NgRx Conf, November 2020, Huntsville, AL
-9. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
+8. 🇬🇧 AngularConnect, October 2020, London
+9. 🇺🇸 NgRx Conf, November 2020, Huntsville, AL
+10. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
 
 
 ----
@@ -32,6 +33,7 @@ Planned for March 2020. We have not forgotten the CFP!
 1. Scully.io - Angular Static Site Generator (JAMStack) has been a hot topic
 2. Angular 9 is just few days away – 9.0.0-rc.11 is [supposed to be the last RC](https://twitter.com/IgorMinar/status/1221650943944474625) before final
 3. New `@angular/google-maps` package<br>It wraps the Google Maps JavaScript API to make it easy to use inside Angular applications.
+4. Nx 8.12 [released](https://blog.nrwl.io/nx-8-12-distributed-caching-improved-dependency-detection-better-support-for-buildable-libraries-6f7cec17b83f) - Distributed Caching, improved dependency detection, better support for buildable libraries, and more
 
 ----
 
