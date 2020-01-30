@@ -4,17 +4,17 @@
 
 ## Upcoming events:
 
-1. ngAtlanta, February 2020, Atlanta/Georgia 
-2. ng-india, February 2020, Delhi
-3. RxJS Live, March 2020, London
-4. IJS, April 2020, London
-5. ng-conf, April 2020, Salt Lake City
-6. ngVikings, May 2020, Oslo
-7. AngularUP, June 2020, Tel Aviv
-8. NG-DE, August 2020, Berlin
-7. ngRome, October 2020, Rome
-8. NgRx Conf, November 2020, Huntsville, AL
-8. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
+1. 🇺🇸 ngAtlanta, February 2020, Atlanta/Georgia 
+2. 🇮🇳 ng-india, February 2020, Delhi
+3. 🇬🇧 RxJS Live, March 2020, London
+4. 🇬🇧 IJS, April 2020, London
+5. 🇺🇸 ng-conf, April 2020, Salt Lake City
+6. 🇳🇴 ngVikings, May 2020, Oslo
+7. 🇮🇱 AngularUP, June 2020, Tel Aviv
+8. 🇩🇪 NG-DE, August 2020, Berlin
+7. 🇮🇹 ngRome, October 2020, Rome
+8. 🇺🇸 NgRx Conf, November 2020, Huntsville, AL
+9. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
 
 
 ----
@@ -37,7 +37,7 @@ Planned for March 2020. We have not forgotten the CFP!
 ## Promo codes:
 
 
-<img src="logos/rx.js-live.png" width="40%" alt="NgTalks logo">
+<img src="logos/js-live.png" width="40%" alt="RxJS Live logo">
 
 **Promo code:** `ngheidelberg` – with this promo-code, you'll get a 20% discount on the conference tickets.  
 
