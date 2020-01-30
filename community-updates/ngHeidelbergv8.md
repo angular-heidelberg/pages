@@ -8,7 +8,7 @@
 
 1. 🇺🇸 ngAtlanta, February 2020, Atlanta/Georgia 
 2. 🇮🇳 ng-india, February 2020, Delhi
-3. 🇬🇧 RxJS Live, March 2020, London
+3. 🇬🇧 [RxJS Live, March 2020, London](https://www.rxjs.live/) -- Community Partner! ❤️
 4. 🇬🇧 IJS, April 2020, London
 5. 🇺🇸 ng-conf, April 2020, Salt Lake City
 6. 🇳🇴 ngVikings, May 2020, Oslo
