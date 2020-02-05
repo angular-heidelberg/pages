@@ -9,15 +9,14 @@
 1. 🇺🇸 ngAtlanta, February 2020, Atlanta/Georgia 
 2. 🇮🇳 ng-india, February 2020, Delhi
 3. 🇬🇧 [RxJS Live, March 2020, London](https://www.rxjs.live/) -- Community Partner! ❤️
-4. 🇬🇧 IJS, April 2020, London
-5. 🇺🇸 ng-conf, April 2020, Salt Lake City
-6. 🇳🇴 ngVikings, May 2020, Oslo
-7. 🇮🇱 AngularUP, June 2020, Tel Aviv
-8. 🇩🇪 NG-DE, August 2020, Berlin
-7. 🇮🇹 ngRome, October 2020, Rome
-8. 🇬🇧 AngularConnect, October 2020, London
-9. 🇺🇸 NgRx Conf, November 2020, Huntsville, AL
-10. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
+4. 🇺🇸 ng-conf, April 2020, Salt Lake City
+5. 🇳🇴 ngVikings, May 2020, Oslo
+6. 🇮🇱 AngularUP, June 2020, Tel Aviv
+7. 🇩🇪 NG-DE, August 2020, Berlin
+8. 🇮🇹 ngRome, October 2020, Rome
+9. 🇬🇧 AngularConnect, October 2020, London
+10. 🇺🇸 NgRx Conf, November 2020, Huntsville, AL
+11. 🇩🇪 __Angular.Schule, 12.-15. May 2020 in Heidelberg, see https://angular.schule/heidelberg<br>_(sponsored link)___
 
 
 ----
