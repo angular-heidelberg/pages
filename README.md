@@ -1,7 +1,5 @@
 # pages
 
-![Angular Heidelberg Logo](Angular_Heidelberg_logo.svg)
-
 * [Community Updates v1](community-updates/ngHeidelbergv1)
 * [Community Updates v2](community-updates/ngHeidelbergv2)
 * [Community Updates v3](community-updates/ngHeidelbergv3)
