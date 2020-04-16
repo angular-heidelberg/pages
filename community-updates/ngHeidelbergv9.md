@@ -16,7 +16,7 @@
 
 ## Next Meetup (#ngHeidelberg v10)
 
-Planned for May 2020. We have not forgotten the CFP!
+Planned for May 2020. One speaker already confirmed.
 
 ----
 
@@ -26,8 +26,8 @@ Planned for May 2020. We have not forgotten the CFP!
 
  - The new Angular version supports Typescript Version 3.8. 
  - build speed improvements
- - End-to-End tests now support grep and invertGrep which enable you to more easily pich the test you want to run
- - New CLI Component Generator Option displayBlock
+ - End-to-End tests now support `grep` and `invertGrepv which enable you to more easily pich the test you want to run
+ - New CLI Component Generator Option `displayBlock`
 
 #### NgRx 9.1 is out!
 
