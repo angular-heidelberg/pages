@@ -16,7 +16,7 @@
 
 ## Next Meetup (#ngHeidelberg v10)
 
-Planned for May 2020. One speaker already confirmed.
+Planned for early May 2020. One speaker already confirmed.
 
 ----
 
