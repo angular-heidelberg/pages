@@ -8,7 +8,7 @@
 |------|------|-----|------|-----|
 | 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | London | Postponed. New date will be announced soon. | **Community Partner ❤️** |
 | 🇬🇧 | [IJS](https://javascript-conference.com/) | London | Postponed. New date will be announced soon. | **Community Partner ❤️** |
-| 🌍 | [JS ViCon, May 7th](https://jsvidcon.com/)  | Online at 2PM (GMT 0) | 7. May 2020 | |
+| 🌍 | [JS VidCon](https://jsvidcon.com/)  | Online at 2PM (GMT 0) | 7. May 2020 | |
 | 🇦🇺 | [ngGirls@Australia](https://ng-girls.org/australia-2020/) | ONLINE ngGirls Event AEST | 16. May 2020 | |
 | 🇮🇱 | AngularUP | Tel Aviv | Postponed. New date will be announced soon. | |
 | 🇬🇧 | AngularConnect | London | 13./14. October 2020 | |
