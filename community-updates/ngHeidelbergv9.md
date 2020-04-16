@@ -21,7 +21,7 @@
 
  - The new Angular version supports Typescript Version 3.8. 
  - build speed improvements
- - End-to-End tests now support `grep` and `invertGrep` which enable you to more easily pich the test you want to run
+ - End-to-End tests now support `grep` and `invertGrep` which enable you to more easily pick the test you want to run
  - New CLI Component Generator Option displayBlock
 
 ### NgRx 9.1 is out!
