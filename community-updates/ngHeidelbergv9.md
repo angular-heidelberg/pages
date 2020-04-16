@@ -7,7 +7,6 @@
 | 🏳️‍🌈 | Event | Location | Date | |
 |------|------|-----|------|-----|
 | 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | London | Postponed. New date will be announced soon. | **Community Partner ❤️** |
-| 🇬🇧 | [IJS](https://javascript-conference.com/) | London | Postponed. New date will be announced soon. | **Community Partner ❤️** |
 | 🌍 | [JS VidCon](https://jsvidcon.com/)  | Online at 2PM (GMT 0) | 7. May 2020 | |
 | 🇦🇺 | [ngGirls@Australia](https://ng-girls.org/australia-2020/) | ONLINE ngGirls Event AEST | 16. May 2020 | |
 | 🇮🇱 | AngularUP | Tel Aviv | Postponed. New date will be announced soon. | |
@@ -22,14 +21,17 @@
 
  - The new Angular version supports Typescript Version 3.8. 
  - build speed improvements
- - End-to-End tests now support grep and invertGrep which enable you to more easily pich the test you want to run
+ - End-to-End tests now support `grep` and `invertGrep` which enable you to more easily pich the test you want to run
  - New CLI Component Generator Option displayBlock
 
 ### NgRx 9.1 is out!
 
  - [Release Notes](https://github.com/ngrx/platform/blob/master/CHANGELOG.md#910-2020-04-07) 
  - [ngrx/component](https://ngrx.io/guide/component) with new features like the push pipe and the let Directive
- - [ngx-rx-state](https://github.com/BioPhoton/ngx-rx/tree/master/libs/ngx-rx-state) RxState is a light-weight reactive state 
+
+# Other
+ - [ngx-rx-state](https://github.com/BioPhoton/ngx-rx/tree/master/libs/ngx-rx-state) – Reactive Component State for Angular (small global state manager, see [our last meetup](https://youtu.be/SfKwFtMFdv8))
+ 
 ----
 
 
