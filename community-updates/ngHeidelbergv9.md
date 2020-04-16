@@ -30,7 +30,7 @@
  - [ngrx/component](https://ngrx.io/guide/component) with new features like the push pipe and the let Directive
 
 # Other
- - [ngx-rx-state](https://github.com/BioPhoton/ngx-rx/tree/master/libs/ngx-rx-state) – Reactive Component State for Angular (small global state manager, see [our last meetup](https://youtu.be/SfKwFtMFdv8))
+ - [ngx-rx-state](https://github.com/BioPhoton/ngx-rx/tree/master/libs/ngx-rx-state) – Reactive Component State for Angular (small state manager, see [our last meetup](https://youtu.be/SfKwFtMFdv8))
  
 ----
 
