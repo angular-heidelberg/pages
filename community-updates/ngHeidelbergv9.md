@@ -44,4 +44,9 @@ Planned for May 2020. We have not forgotten the CFP!
 **Promo code:** `ngheidelberg` – with this promo-code, you'll get a 20% discount on the conference tickets.  
 
 
+
 ----
+
+[Intro Slides](https://docs.google.com/presentation/d/1REehghPvk-n_Xr1t3QtKuijeOmmxWl6Xlbw64JBMBuQ/edit?usp=sharing)
+
+
