@@ -9,3 +9,4 @@
 * [Community Updates v7](community-updates/ngHeidelbergv7)
 * [Community Updates v8](community-updates/ngHeidelbergv8)
 * [Community Updates v9](community-updates/ngHeidelbergv9)
+* [Community Updates v10](community-updates/ngHeidelbergv10)
