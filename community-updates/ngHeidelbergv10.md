@@ -7,7 +7,7 @@
 | 🏳️‍🌈 | Event | Location | Date | |
 |------|------|-----|------|-----|
 | 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | London | 17th/18th September 2020 | **Community Partner ❤️** |
-| 🇬🇧 | AngularConnect | London | 13./14. October 2020 | |
+| 🇬🇧 | AngularConnect | London | 13th/14th October 2020 | |
 | 🇺🇸 | NgRx Conf | Huntsville, Alabama | 5th/6th November 2020 | |
 | 🇮🇱 | AngularUP | Tel Aviv | 10th December 2020 | |
 | 🇮🇹 | ngRome | Rome | Postponed to Spring 2021 | |
