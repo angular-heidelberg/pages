@@ -20,7 +20,7 @@
 
 ----
 
-
+<!--
 ## Promo codes:
 
 
@@ -28,7 +28,7 @@
 
 **Promo code:** `ngheidelberg` – with this promo-code, you'll get a 20% discount on the conference tickets.  
 
-
+-->
 
 ----
 
