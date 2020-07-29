@@ -34,6 +34,7 @@ The LTS phase of the legacy AngularJS framework was [extended for another 6 mont
 ### More
 
 * [Nx 10 was released](https://blog.nrwl.io/more-customizable-workspaces-angular-10-support-better-webstorm-jest-integration-and-more-in-nx-c9b2bd967166), many new features, including support for Angular 10
+* The german [Angular Buch](https://angular-buch.com/) team has announced a new edition for September 2020.
 * Have a look: [RxAngular](https://github.com/BioPhoton/rx-angular), a toolset for handling fully reactive Angular applications, was introduced by Michael Hladky
 * Nativescript is now owned by [nstudio](https://nstudio.io/)
 
