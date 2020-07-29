@@ -6,11 +6,14 @@
 
 | 🏳️‍🌈 | Event | Location | Date | |
 |------|------|-----|------|-----|
+| 🎲 | [Angular Challenge 2020](https://editx.eu/it-challenge/angular-challenge-2020) | Online | From 15/06/2020 to 31/08/2020 | |
 | 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | London | 17th/18th September 2020 | **Community Partner ❤️** |
-| 🇬🇧 | AngularConnect | London | 13th/14th October 2020 | |
-| 🇺🇸 | NgRx Conf | Huntsville, Alabama | 5th/6th November 2020 | |
-| 🇮🇱 | AngularUP | Tel Aviv | 10th December 2020 | |
-| 🇮🇹 | ngRome | Rome | Postponed to Spring 2021 | |
+| 🇮🇹 | [ngRome](https://ngrome.io/) | Online | October 20th 2020 | |
+| 🇬🇧 | [AngularConnect](https://angularconnect.com/) | London | 13th/14th October 2020 | |
+| 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | 5th/6th November 2020 | |
+| 🇮🇱 | [AngularUP](https://angular-up.com/) | Tel Aviv | 10th December 2020 | |
+
+
 
 ## ℹ️ News
 
