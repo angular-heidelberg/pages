@@ -48,8 +48,7 @@ The LTS phase of the legacy AngularJS framework was [extended for another 6 mont
 
 -->
 
-----
 
-[Intro Slides](https://docs.google.com/presentation/d/1Go-TaZuGqOnPnuosteaIbwBeRmkDaRxTcGRjmOavFjs/edit?usp=sharing)
+[Intro Slides](https://docs.google.com/presentation/d/1GtejS4ay-xtnxQaqBfH_2OP25LoqqBjFAHprnJKLWrQ/edit?usp=sharing)
 
 
