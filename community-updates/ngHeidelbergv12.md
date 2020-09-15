@@ -11,6 +11,7 @@
 | 🇮🇹 | [ngRome](https://ngrome.io/) | Online | October 20th 2020 | |
 | 🇬🇧 | [AngularConnect](https://angularconnect.com/) | London | 13th/14th October 2020 | |
 | 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | 5th/6th November 2020 | |
+| 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th, 2020 | |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Tel Aviv | 10th December 2020 | |
 
 
@@ -38,7 +39,6 @@ The Angular Team shared their public roadmap for version 11 and beyond.
 ### Angular CLI supports Typescript 4.0
 
 You can take advantage of the latest features of TypeScript 4.0 with [Angular CLI 10.1.0](https://github.com/angular/angular/blob/master/CHANGELOG.md?linkId=99387909#1010-2020-09-02)!
-
 
 ----
 
