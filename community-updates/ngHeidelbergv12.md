@@ -57,5 +57,5 @@ You can take advantage of the latest features of TypeScript 4.0 with [Angular CL
 -->
 
 
-[Intro Slides](https://docs.google.com/presentation/d/1GtejS4ay-xtnxQaqBfH_2OP25LoqqBjFAHprnJKLWrQ/edit?usp=sharing)
+[Intro Slides](https://docs.google.com/presentation/d/1HUNb8NgaaAj7Ckc8G9QDCUD8b2cb34WQ7sjFndE5cvM/edit?usp=sharing)
 
