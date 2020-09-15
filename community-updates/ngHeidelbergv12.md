@@ -40,6 +40,10 @@ The Angular Team shared their public roadmap for version 11 and beyond.
 
 You can take advantage of the latest features of TypeScript 4.0 with [Angular CLI 10.1.0](https://github.com/angular/angular/blob/master/CHANGELOG.md?linkId=99387909#1010-2020-09-02)!
 
+### More
+
+* The `async()` testing helper will be renamed to `waitForAsync()`: https://github.com/angular/angular/pull/37583
+
 ----
 
 <!--
