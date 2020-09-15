@@ -6,10 +6,10 @@
 
 | 🏳️‍🌈 | Event | Location | Date | |
 |------|------|-----|------|-----|
-| 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | London | 18th September 2020 | **Community Partner ❤️** |
+| 🇬🇧 | [RxJS Live](https://www.rxjs.live/) | Online | 18th September 2020 | **Community Partner ❤️** |
 | 🇩🇪 | [enterJS](https://enterjs.de/) | Online | September 28th - October 1st 2020 | |
 | 🇮🇹 | [ngRome](https://ngrome.io/) | Online | October 20th 2020 | |
-| 🇬🇧 | [AngularConnect](https://angularconnect.com/) | London | 13th/14th October 2020 | |
+| 🇬🇧 | [AngularConnect](https://angularconnect.com/) | Online | 13th/14th October 2020 | |
 | 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | 5th/6th November 2020 | |
 | 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th, 2020 | |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Tel Aviv | 10th December 2020 | |
