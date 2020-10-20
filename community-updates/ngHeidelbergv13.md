@@ -1,6 +1,6 @@
 ![Banner](ngHeidelbergv13.jpg)
 
-# Community updates, 2020-10-xy
+# Community updates, 2020-10-20
 
 ## 📅 Upcoming events
 
@@ -10,7 +10,6 @@
 | 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th 2020 | |
 | 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 | |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd | |
-| 🇯🇵 | [ngJapan](https://ngjapan.org/) | Online | ??? | |
 | 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | Postponed: May 20th–21st, 2021 | |
 
 ## ℹ️ News
