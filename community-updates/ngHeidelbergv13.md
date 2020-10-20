@@ -11,6 +11,7 @@
 | 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd |
 | 🇮🇹 | [angularday 2020](https://2020.angularday.it/) | Online | December 4th 2020 |
+| ❤️ | **Angular Heidelberg v14**<br> With a lightning talk special.<br>⚡️ Only 10 minute talks! ⚡️ | Online | December, calendar week 51 |
 | 🇺🇸 | [ng-conf](https://ti.to/ng-conf/2020/en) | Salt Lake City, Utah | March 17-19, 2021 |
 | 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | Postponed: May 20th–21st, 2021 |
 
