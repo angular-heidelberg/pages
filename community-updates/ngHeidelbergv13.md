@@ -4,13 +4,12 @@
 
 ## 📅 Upcoming events
 
-| 🏳️‍🌈 | Event | Location | Date | |
+| 🏳️‍🌈 | Event | Location | Date |
 |------|------|-----|------|-----|
-| 🇮🇹 | [ngRome](https://ngrome.io/) | Online | October 20th 2020 | |
-| 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th 2020 | |
-| 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 | |
-| 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd | |
-| 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | Postponed: May 20th–21st, 2021 | |
+| 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th 2020 |
+| 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 |
+| 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd |
+| 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | Postponed: May 20th–21st, 2021 |
 
 ## ℹ️ News
 
