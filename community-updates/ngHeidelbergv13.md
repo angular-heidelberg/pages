@@ -21,7 +21,7 @@ You can join the discussion [here](https://discord.gg/angular)
 
 ### Angular Community Q&A with Minko Gechev
 
-The first episode of the Angular Community Q&A with Minko Gechev is availabel on [Youtube](https://www.youtube.com/watch?v=ax0JXFeCBIg)
+The first episode of the Angular Community Q&A with Minko Gechev is available on [Youtube](https://www.youtube.com/watch?v=ax0JXFeCBIg)
 
 ### Angular localization with Ivy
 
