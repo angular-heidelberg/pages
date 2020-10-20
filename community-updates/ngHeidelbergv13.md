@@ -9,6 +9,7 @@
 | 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th 2020 |
 | 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd |
+| 🇮🇹 | [angularday 2020](https://2020.angularday.it/) | Online | December 4th 2020 |
 | 🇺🇸 | [ng-conf](https://ti.to/ng-conf/2020/en) | Salt Lake City, Utah | March 17-19, 2021 |
 | 🇺🇸 | [NgRx Conf](https://conf.ngrx.io/) | Huntsville, Alabama | Postponed: May 20th–21st, 2021 |
 
