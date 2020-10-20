@@ -17,7 +17,7 @@
 ### Angular Community on Discord
 
 There is a public Angular Discord Server for the community with a lot of channels for e.g. several libraries. 
-You can join the discussion at https://discord.gg/angular
+You can join the discussion [here](https://discord.gg/angular)
 
 ### Angular Community Q&A with Minko Gechev
 
