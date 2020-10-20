@@ -5,7 +5,7 @@
 ## 📅 Upcoming events
 
 | 🏳️‍🌈 | Event | Location | Date |
-|------|------|-----|------|-----|
+|------|------|-----|------|
 | 🇺🇸 | [Enterprise NG](https://www.ng-conf.org/) | Online | November 19th - 20th 2020 |
 | 🇨🇳 | [ngChina](https://ng-china.org/) | Online | November 21th - 22th 2020 |
 | 🇮🇱 | [AngularUP](https://angular-up.com/) | Online | November 30th - December 3rd |
