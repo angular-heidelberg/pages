@@ -33,6 +33,10 @@ Furthermore the build times have been improved, especially when building for sev
 
 Checkout this [blog post](https://blog.angular.io/angular-localization-with-ivy-4d8becefb6aa) for more details.
 
+### Scully 1.0
+
+[Scully](https://scully.io/) makes building, testing and deploying Jamstack apps extremely simple.
+
 ----
 
 
